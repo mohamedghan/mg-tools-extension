@@ -5,7 +5,7 @@
   "version": "1.0",
 
   "description": "Tools used by meddabeast in the browser",
-  "permissions": ["menus", "storage"],
+  "permissions": ["menus", "storage", "unlimitedStorage"],
   "background": {
     "page": "bg.html"
   }
