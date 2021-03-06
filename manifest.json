@@ -1,0 +1,12 @@
+{
+
+  "manifest_version": 2,
+  "name": "mohamed tools",
+  "version": "1.0",
+
+  "description": "Tools used by meddabeast in the browser",
+  "permissions": ["menus"],
+  "background": {
+    "page": "bg.html"
+  }
+}
